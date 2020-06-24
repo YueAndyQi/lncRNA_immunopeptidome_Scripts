@@ -3,7 +3,7 @@
 # get chromosome two-column list, each column having two different labels
 # for the same chromosome
 
-chrom="/Users/misrava/Documents/Guha/Expression/all-chrom.txt"
+chrom="/path/to/all-chrom.txt"
 
 varfile=$1
 
