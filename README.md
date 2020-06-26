@@ -10,6 +10,8 @@ Scripts:
 From Vikram Misra:
 These scripts are written in Bash shell script.
 
+Pre-requisites: Need Bash shell, samtools and bedtools.
+
 bed-intersect.sh - Finds intersection between two BED files.
 
 Usage: bash bed-intersect.sh example.bed
