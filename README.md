@@ -22,7 +22,8 @@ Usage: bash chrom-namer.sh example.bed
 all-chrom.txt - two-column list of chromosome notations used by chrom-namer.sh
 
 From Mohammad Haghir Ebrahimabadi:
-These 
+These scripts are in Python 2.
+
 sample.py - For sampling mock lncRNA sequences from a genome.
 Usage: python sample.py genome.fasta
 
