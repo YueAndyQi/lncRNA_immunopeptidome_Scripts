@@ -35,5 +35,5 @@ Usage: python sample.py genome.fasta
 
 pval.py - p-value calculation
 
-
+All files with lncipedia_5_2_hc.fasta.aa.part-**.fasta names - Six-frame translations of the lncRNA sequences from https://lncipedia.org/
 
